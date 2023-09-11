@@ -36,6 +36,14 @@ URL do curso -> [Bootstrap 5: Crie uma Landing Page Responsiva](https://cursos.a
 * Explorou a documentação do Bootstrap, e inseriu tema de cards prontos ao projeto.
 * Modificou tema de cards prontos do Bootstrap para se adequarem ao projeto.
 
+## 03 - Flexbox e Ícones no Bootstrap
+* Integrar a biblioteca de ícones do Bootstrap, Bootstrap Icons, ao projeto.
+* Entendeu como encontrar e inserir ícones em um projeto na prática.
+* Conheceu classes do Bootstrap para definir espaçamento.
+* Entendeu na prática como alterar fontes de ícones e textos explorando a documentação do Bootstrap.
+* Conheceu e aplicou classes do Flexbox no Bootstrap ao projeto.
+* Finalizou o Wireframe do projeto Meteora.
+
 ## :open_file_folder: Deploy da Aplicação :dash:
 [Aplicação Online](URL_DO_DEPLOY) - Site hospedado na plataforma do **Vercel**.
 
