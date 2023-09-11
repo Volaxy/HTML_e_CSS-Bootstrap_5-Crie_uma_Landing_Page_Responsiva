@@ -30,6 +30,12 @@ URL do curso -> [Bootstrap 5: Crie uma Landing Page Responsiva](https://cursos.a
 * Conferir como modificar componentes através das classes do Bootstrap.
 * Entender o contexto histórico no qual o Bootstrap foi criado.
 
+## 02 - Breakpoints e Grid no Bootstrap
+* Aplicar sistema de Grids do Bootstrap para organizar elementos de forma responsiva.
+* Conhecer e aplicar classes do Bootstrap para definir altura e largura.
+* Explorou a documentação do Bootstrap, e inseriu tema de cards prontos ao projeto.
+* Modificou tema de cards prontos do Bootstrap para se adequarem ao projeto.
+
 ## :open_file_folder: Deploy da Aplicação :dash:
 [Aplicação Online](URL_DO_DEPLOY) - Site hospedado na plataforma do **Vercel**.
 
