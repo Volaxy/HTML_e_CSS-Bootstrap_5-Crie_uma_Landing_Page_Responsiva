@@ -50,10 +50,13 @@ URL do curso -> [Bootstrap 5: Crie uma Landing Page Responsiva](https://cursos.a
 * Analisar limitações do Bootstrap na oferta de cores, resolvendo a limitação recorrendo ao CSS.
 
 ## 05 - Acessibilidade com Bootstrap
-
+* Refatorar o código para tornar o projeto acessível para leitores de tela.
+* Conheceu a documentação de acessibilidade do Bootstrap.
+* Implementou classes de acessibilidade do Bootstrap no projeto.
+* Finalizou o projeto Meteora.
 
 ## :open_file_folder: Deploy da Aplicação :dash:
-[Aplicação Online](URL_DO_DEPLOY) - Site hospedado na plataforma do **Vercel**.
+[Aplicação Online](https://volaxy.github.io/HTML_e_CSS-Bootstrap_5-Crie_uma_Landing_Page_Responsiva/) - Site hospedado na plataforma do **Github Pages**.
 
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
