@@ -44,6 +44,14 @@ URL do curso -> [Bootstrap 5: Crie uma Landing Page Responsiva](https://cursos.a
 * Conheceu e aplicou classes do Flexbox no Bootstrap ao projeto.
 * Finalizou o Wireframe do projeto Meteora.
 
+## 04 - Inserindo Estilos
+* Aplicar imagens de forma responsiva em um projeto unindo classes de Breakpoint e Display do Bootstrap.
+* Consultar o tema de cores que o Bootstrap oferece e implementar no projeto como background.
+* Analisar limitações do Bootstrap na oferta de cores, resolvendo a limitação recorrendo ao CSS.
+
+## 05 - Acessibilidade com Bootstrap
+
+
 ## :open_file_folder: Deploy da Aplicação :dash:
 [Aplicação Online](URL_DO_DEPLOY) - Site hospedado na plataforma do **Vercel**.
 

@@ -1,3 +1,35 @@
+.carousel-text {
+    & h2 {
+        font-size: 3.5rem;
+    }
+
+    & p {
+        font-size: 1.5rem;
+    }
+}
+
 .facility-item {
     width: 20rem;
+}
+
+    .facility-item__icon {
+        color: #DAFF01;
+        font-size: 4rem;
+    }
+
+    .facility-item__title {
+        color: #DAFF01;
+    }
+
+.booming__button,
+.news__button {
+    background-color: #9353FF;
+    
+    &:hover {
+        background-color: #512e8d;
+    }
+}
+
+.news {
+    max-width: 30rem;
 }
